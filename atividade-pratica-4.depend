@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1604185654 source:c:\users\luciana\desktop\semestre 2020_1\estrtura de dados\atividade-pratica-4\main.cpp
+	<iostream>
+	"ArvoreAVL.h"
+	"NoAVL.h"
+	<cstdlib>
+	<ctime>
+	"time.h"
+
+1604148488 source:c:\users\luciana\desktop\semestre 2020_1\estrtura de dados\atividade-pratica-4\src\noavl.cpp
+	"NoAVL.h"
+	<iostream>
+
+1604150606 c:\users\luciana\desktop\semestre 2020_1\estrtura de dados\atividade-pratica-4\include\noavl.h
+
+1604184870 source:c:\users\luciana\desktop\semestre 2020_1\estrtura de dados\atividade-pratica-4\src\arvoreavl.cpp
+	"ArvoreAVL.h"
+	"NoAVL.h"
+	"stdlib.h"
+	<iostream>
+
+1604184871 c:\users\luciana\desktop\semestre 2020_1\estrtura de dados\atividade-pratica-4\include\arvoreavl.h
+	"NoAVL.h"
+
